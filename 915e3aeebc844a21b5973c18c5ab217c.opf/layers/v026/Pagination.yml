@@ -13,15 +13,15 @@ annotations:
     imgnum: 1362
     reference: ''
     span:
-      start: 698
-      end: 2023
+      start: 697
+      end: 2018
     note_ref: 13e8393ed2794902a20e5cb26a45b8ec
   13e8393ed2794902a20e5cb26a45b8ec:
     imgnum: 1363
     reference: ''
     span:
-      start: 2026
-      end: 2691
+      start: 2020
+      end: 2682
 local_ids:
   4d5d113c7a7b41d983e26607b50f94c6: 200000
   44ac35a9b3fb437a966d1bf446ebb63b: 200001
